@@ -15,5 +15,5 @@ Intro till MySql
 ## MYSQL
 
 **setup** 
-Kör
+Kör 
 	 sudo mysql -u root
