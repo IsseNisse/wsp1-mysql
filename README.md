@@ -21,5 +21,6 @@ Kör
 	 * sudo mysql -u root 
 	 
 	 
-För att göra ny användare		
+För att göra ny användare	
+
 	 * GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' IDENTIFIED BY 'password';
