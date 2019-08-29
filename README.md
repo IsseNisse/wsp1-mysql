@@ -28,9 +28,3 @@ För att göra ny användare
 För att kolla vilka användare som finns 
 
 	 * SELECT DISTINCT User FROM mysql.user;
-
-Hitta appache2
-
-	 * cd /etc/apache2/
-	 * sudo a2enmod userdir
-	 
