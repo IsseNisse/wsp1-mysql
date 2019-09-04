@@ -8,9 +8,9 @@ Intro till MySql
  
  Skriv in följande:
  
-   * sudo service mysql restart
+    * sudo service mysql restart
     
-   * sudo service apache2 restart
+    * sudo service apache2 restart
 
 ## MYSQL
 
