@@ -14,7 +14,7 @@ Intro till MySql
 
 ## MYSQL
 
-**setup** 
+**Setup** 
 
 Kör 
 
