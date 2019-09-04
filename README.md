@@ -28,3 +28,8 @@ För att göra ny användare
 För att kolla vilka användare som finns 
 
 	 * SELECT DISTINCT User FROM mysql.user;
+**Start**
+
+Kör 
+
+	* sudo  mysql -u username -p
