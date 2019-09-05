@@ -66,6 +66,6 @@ Intro till MySql
 
 	* insert into "table name" (fält t.ex. body) values (värden);
 	
- Visa vad som finns i vlat fält:
+ Visa vad som finns i valt fält:
 
 	* select * from "table name";
