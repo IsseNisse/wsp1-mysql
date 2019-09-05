@@ -32,7 +32,7 @@ Intro till MySql
 
  Kör 
 
-	* sudo  mysql -u username -p
+	* mysql -u username -p
 	
 ## Databas
 
